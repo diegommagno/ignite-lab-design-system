@@ -1,12 +1,40 @@
-aprendi a criar no figma components, tokens, criar um design no figma, storybook, radix-ui, 
-pattern de composicao: tenho um elemento root e ele tem mais elementos, com o tempo fica maior TextInputRoot.
+<h1 align="center"> Ignite Lab - Design System 🎨 </h1>
 
-Dessa vez, com um tema épico: Design System com React!
+<p align="center">
+On this event we learn how create a design system on Figma and use it to structure our project. <br/>
+🚧 This project will only be finished months from now. 🚧
+</p>
 
-Juntos vamos construir um Design System, do Figma ao código, utilizando Storybook, Radix e diversas outras ferramentas do ecossistema de React.
+<p align="center">
+  <a href="#-live-preview">Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-worked-on">Worked On</a>
+</p>
 
-Vamos aprender a criar testes automatizados para nossa interface dentro do Storybook utilizando Jest e Testing Library.
+<br/>
 
+<br/>
 
-Além disso, vamos integrar o MSW (Mock Service Worker) para criar mocks de respostas da API facilitando ainda mais os testes automatizados.
+## 📝 Live Preview 
+
+- [Not yet available](https://github.com/diegommagno/ignite-lab-design-system)
+
+## 🧑🏻‍💻 Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## 🎓 Worked On
+
+- Learned how to create components, tokens on Figma
+- Creating a design on Figma
+- Storybook
+- Radix-ui
+- Design patterns
+
+<br/>
+
+> On this event we built a Design System, from Figma to code, using Storybook, Radix e many other tools from the React ecosystem. <br/><br/> We learned how to create automated tests for our interface inside Storybook using Jest and Testing Library. <br/><br/> We also integrated the MSW (Mock Service Worker) to create mock responses from the API, making it easier to use our automated tests.
+
 
