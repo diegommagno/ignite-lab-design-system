@@ -32,7 +32,7 @@ On this event we learn how create a design system on Figma and use it to structu
 - Storybook
 - Radix-ui
 - Design patterns
-- How to built a Design System, from Figma to code, using Storybook, Radix e many other tools from the React ecosystem.
+- How to built a Design System, from Figma to code, using Storybook, Radix and many other tools from the React ecosystem.
 - How to create automated tests for our interface inside Storybook using Jest and Testing Library. 
 - How to integrated the MSW (Mock Service Worker) to create mock responses from the API, making it easier to use our automated tests.
 
